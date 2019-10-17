@@ -1,2 +1,2 @@
 
-[My Project](https://github.com/dhef8251/bokeh_deploying/blob/master/mydata.html)
+[My Project](https://dhef8251.github.io/bokeh_deploying/mydata.html)
