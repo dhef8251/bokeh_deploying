@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## bokeh_deploying
 
 You can use the [editor on GitHub](https://github.com/dhef8251/bokeh_deploying/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
